@@ -6,7 +6,7 @@ During my Live Project I had the oportunity to work with some amazing people and
 - [Cookery](#cookery)
 ## Escap-e
 My task here was to replicate a website based off an image of how it looks using Bootstrap 5, HTMl and CSS. I created a navbar and positioned it in the middle and also added a background image as well as its own logo.
-'''html
+html
 
     <body>
         <div class="container">
@@ -44,7 +44,7 @@ My task here was to replicate a website based off an image of how it looks using
 '''
 ## Cookery
 While working on cookery I delt with some div containers and how rows and columns work to position the card i was working on for the featured recipe on this webpage. Im thankful for this project because i really learned alot about positioning.
-'''html
+`html
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-6 mt-5 mx-auto">
@@ -70,4 +70,4 @@ While working on cookery I delt with some div containers and how rows and column
     </div>
   </div>
 </div>
-'''
+```
