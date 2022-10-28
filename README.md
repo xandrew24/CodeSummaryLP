@@ -42,3 +42,32 @@ My task here was to replicate a website based off an image of how it looks using
     </body>
     
 '''
+## Cookery
+While working on cookery I delt with some div containers and how rows and columns work to position the card i was working on for the featured recipe on this webpage. Im thankful for this project because i really learned alot about positioning.
+'''html
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-6 mt-5 mx-auto">
+      <h1 id="feature">Featured</h1>
+      <div class="row">
+        <div class="card">
+          <div class="row">
+            <div class="col-md-4 img"> 
+            </div>
+            <div class="col-md-8">
+              <div class="card-body p-5">
+                <h5 class="card-title">Vegan Ramen</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+                </p>
+                <button type="button" class="btn btn-lg">View Recipe</button>
+              </div>
+              <div class="row card-footer">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+'''
