@@ -45,3 +45,5 @@ This is what the code displays in a browser
 ## Cookery
 While working on cookery I delt with some div containers and how rows and columns work to position the card i was working on for the featured recipe on this webpage. Im thankful for this project because i really learned alot about positioning.
 ![cookery](https://github.com/xandrew24/CodeSummaryLP/blob/main/Cookery%20snippet.png)
+This is what the code displays in a browser
+![cookery](https://github.com/xandrew24/CodeSummaryLP/blob/main/Cookery%20pic.png)
